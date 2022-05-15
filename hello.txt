@@ -3,3 +3,4 @@ hello git!
 hello sooneven!
 modified on master branch
 modified on hot-fix branch
+master
